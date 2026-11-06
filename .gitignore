@@ -1,0 +1,7 @@
+/build/
+/dist/
+*.jks
+*.keystore
+*.apk
+*.idsig
+*.mumudata
